@@ -23,7 +23,7 @@ We conduct a preregistered randomized controlled trial (n = 504) to measure whet
 
 Reproduces all quantitative and qualitative results reported in the paper.
 
-### Pre-Study (`Analysis/main_analysis_prestudy.ipynb`)
+### Pre-Study (`Analysis/main_analysis_prestudy.py`)
 
 Contains the analysis for the pre-study (n = 50), which informed the selection of the LLM prompting strategy used in the main experiment.
 
